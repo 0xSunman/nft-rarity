@@ -2,8 +2,6 @@
 
 Implement your own rarity tools using this template.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fnishantrpai%2Frarity-score&project-name=rarity-score&repo-name=rarity-score)
-
 References:
 
 - https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c
@@ -72,12 +70,6 @@ yarn install
 yarn run dev
 ```
 
-# 😫 Having issues?
-
-Reach out to me on [Twitter](https://twitter.com/PaiNishant) or [Discord](https://discordapp.com/users/nishu#4633), will deploy it for you.
-
-PS: This is a paid service.
-
 ## 🧾 Have I done it before?
 
 Yes, deployed it for:
@@ -107,7 +99,7 @@ Yes, deployed it for:
 From time to time, I push updates if you want to update your repo with those changes:
 
 ```
-git remote add upstream https://github.com/nishantrpai/rarity-score.git
+git remote add upstream https://github.com/0xSunman/nft-rarity.git
 git fetch upstream
 git merge upstream/main 
 ```
